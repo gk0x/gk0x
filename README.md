@@ -1,30 +1,19 @@
-# 🚀H3110 W0R1D!🚀
+# 🚀H3110 W0R1D🚀
 ## About me:
-📖 I enjoy learning new technology.
-
-⏰ I'm ready for challenges
-
-💻 I started my adventure with programming in 2022
-
-🌎 I'm an extrovert
+📖 I enjoy learning new technology. <br>
+⏰ I'm ready for challenges. <br>
+💻 I started my adventure with programming in 2022. <br>
+🌎 I'm an extrovert. <br>
 
 
 
 ## I'm interested in:
-🏗️ how something is done
+🏗️ how something is done<br>
+🔒 logical puzzles <br>
+📱 applications that make life easier <br>
+⛓️ blockchain technology<br>
+🦾 AI<br>
+💪 personal development <br>
 
-🔒 logical puzzles
-
-📱 applications that make life easier
-
-⛓️ blockchain technology
-
-🦾 AI
-
-💪 personal development 
-
-### I'll be posting projects I'm working on here. 
-
-
-#### gap fill quote:
+### gap fill quote:
 _"Research is what I'm doing when I don't know what I'm doing."_
