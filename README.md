@@ -8,8 +8,6 @@
 
 
 ## I'm interested in:
-🏗️ how something is done<br>
-🔒 logical puzzles <br>
 📱 applications that make life easier <br>
 ⛓️ blockchain technology<br>
 🦾 AI<br>
