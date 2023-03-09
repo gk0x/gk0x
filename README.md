@@ -3,7 +3,6 @@
 📖 I enjoy learning new technology. <br>
 ⏰ I'm ready for challenges. <br>
 💻 I started my adventure with programming in 2022. <br>
-🌎 I'm an extrovert. <br>
 
 
 
